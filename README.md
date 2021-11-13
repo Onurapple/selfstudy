@@ -1,0 +1,2 @@
+# selfstudy
+ders harici calismalar
